@@ -7,5 +7,6 @@
             "email": "258082291@qq.com"
         }
     ],
+	"license": "MIT",
     "require": {}
 }
